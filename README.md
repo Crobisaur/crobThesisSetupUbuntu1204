@@ -20,3 +20,4 @@ This is a description (for myself) on how to seet up Ubuntu 12.04 with Caffe neu
 
 11.   Install packages via:  (http://stackoverflow.com/questions/18785063/install-numpy-in-python-virtualenv)
 12.   ex: virtualenv ~/.venvdir/venv/ && ~/.venvdir/venv/bin/pip3.5 install foo
+13.   pyqt5 sudo apt-get install qtcreator pyqt5-dev-tools
