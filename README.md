@@ -17,5 +17,6 @@ This is a description (for myself) on how to seet up Ubuntu 12.04 with Caffe neu
 9.  h5py
 9.  pillow
 10.  tiffile.py (only needed for reading in raw data files)
-11.  
-12.  This is as far as I've gotten.  Any changes will be posted as things progress.
+
+11.   Install packages via:  (http://stackoverflow.com/questions/18785063/install-numpy-in-python-virtualenv)
+12.   ex: virtualenv ~/.venvdir/venv/ && ~/.venvdir/venv/bin/pip3.5 install foo
